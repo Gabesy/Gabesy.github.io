@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+
+h3 {
+	font-family: "Oswald";
+	background-color:#FF6700;
+	border-style:groove;
+	margin-left: 25px;
+	margin-right: 1500px;
+}
+
+h4 {
+	font-family: "Hubballi";
+	background-color:black;
+	color:white;
+	font-size: 20px;
+	border-style:outset;
+	margin-left: 75px;
+	margin-right: 600px;
+}
+
+#bg {
+	background-image: url('https://wallup.net/wp-content/uploads/2017/11/17/232968-vectors-orange.jpg');
+}
